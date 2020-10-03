@@ -1,3 +1,3 @@
 # Coding-Propositional-Logic.
-#Dis_Math
+## Dis_Math
 Aquiro, Freddielyn E.
